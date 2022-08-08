@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## GitHub Pages Test
 
 You can use the [editor on GitHub](https://github.com/algabg1/DW-202202/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
 
